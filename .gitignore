@@ -1,0 +1,9 @@
+*.log
+*.json
+*.txt
+*.xml
+*.sh
+*.csv
+.DS_Store
+.idea/
+bin/
