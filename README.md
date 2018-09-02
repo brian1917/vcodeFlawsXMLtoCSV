@@ -1,4 +1,4 @@
-# Veracode Auto Mitigate
+# Veracode Flaws XML to CSV
 
 ## Description
 Command line app that creates a CSV with on entry per flaw from a Veracode Detailed Report XML.
